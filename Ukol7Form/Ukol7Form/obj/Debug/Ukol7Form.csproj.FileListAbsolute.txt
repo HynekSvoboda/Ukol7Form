@@ -1,0 +1,11 @@
+G:\prg\Ukol7Form\Ukol7Form\bin\Debug\Ukol7Form.exe.config
+G:\prg\Ukol7Form\Ukol7Form\bin\Debug\Ukol7Form.exe
+G:\prg\Ukol7Form\Ukol7Form\bin\Debug\Ukol7Form.pdb
+G:\prg\Ukol7Form\Ukol7Form\obj\Debug\Ukol7Form.csproj.AssemblyReference.cache
+G:\prg\Ukol7Form\Ukol7Form\obj\Debug\Ukol7Form.csproj.SuggestedBindingRedirects.cache
+G:\prg\Ukol7Form\Ukol7Form\obj\Debug\Ukol7Form.Form1.resources
+G:\prg\Ukol7Form\Ukol7Form\obj\Debug\Ukol7Form.Properties.Resources.resources
+G:\prg\Ukol7Form\Ukol7Form\obj\Debug\Ukol7Form.csproj.GenerateResource.cache
+G:\prg\Ukol7Form\Ukol7Form\obj\Debug\Ukol7Form.csproj.CoreCompileInputs.cache
+G:\prg\Ukol7Form\Ukol7Form\obj\Debug\Ukol7Form.exe
+G:\prg\Ukol7Form\Ukol7Form\obj\Debug\Ukol7Form.pdb
